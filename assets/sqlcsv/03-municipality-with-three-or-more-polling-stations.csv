@@ -1,0 +1,2351 @@
+gmina,polling_stations
+m. Kraków,447
+m. Łódź,314
+m. Wrocław,312
+m. Poznań,251
+m. Lublin,208
+m. Szczecin,207
+m. Bydgoszcz,204
+m. Gdańsk,199
+m. Białystok,185
+m. Katowice,169
+zagranica,165
+m. Częstochowa,135
+m. Toruń,123
+m. Gdynia,118
+m. Gliwice,116
+m. Radom,114
+m. Sosnowiec,107
+m. Olsztyn,101
+m. Rzeszów,98
+Mokotów,95
+m. Kielce,95
+m. Zabrze,90
+Praga-Południe,85
+m. Bytom,81
+m. Opole,79
+m. Ruda Śląska,79
+m. Bielsko-Biała,76
+m. Zielona Góra,76
+m. Tarnów,74
+m. Płock,70
+m. Rybnik,70
+m. Gorzów Wielkopolski,68
+m. Włocławek,68
+m. Dąbrowa Górnicza,67
+m. Tychy,66
+Ursynów,64
+m. Chorzów,63
+m. Elbląg,62
+Wola,61
+m. Wałbrzych,61
+Białołęka,57
+m. Grudziądz,55
+m. Kalisz,55
+m. Koszalin,53
+m. Nowy Sącz,53
+Bemowo,52
+Bielany,50
+m. Inowrocław,49
+m. Legnica,49
+m. Lubin,49
+m. Jaworzno,48
+m. Jelenia Góra,47
+m. Konin,47
+m. Słupsk,47
+Śródmieście,47
+Ochota,45
+Targówek,44
+gm. Piaseczno,44
+m. Ostrów Wielkopolski,43
+m. Siedlce,43
+m. Zawiercie,42
+m. Piotrków Trybunalski,41
+m. Siemianowice Śląskie,41
+m. Mysłowice,40
+m. Gniezno,39
+m. Przemyśl,39
+m. Zgierz,39
+m. Jastrzębie-Zdrój,38
+m. Ostrowiec Świętokrzyski,38
+m. Stalowa Wola,38
+m. Suwałki,38
+gm. Wieliczka,37
+m. Stargard,37
+m. Chełm,36
+m. Głogów,36
+gm. Chrzanów,35
+gm. Nysa,35
+m. Zamość,35
+gm. Olkusz,34
+m. Leszno,34
+m. Tarnobrzeg,34
+Wawer,33
+gm. Strzelce Opolskie,33
+m. Kędzierzyn-Koźle,33
+m. Piła,33
+m. Mielec,32
+m. Piekary Śląskie,32
+m. Skarżysko-Kamienna,32
+m. Łomża,32
+Praga-Północ,31
+gm. Pszczyna,31
+m. Tarnowskie Góry,31
+gm. Myślenice,30
+gm. Września,30
+gm. Kluczbork,29
+gm. Wołomin,29
+m. Biała Podlaska,29
+m. Będzin,29
+m. Jasło,29
+m. Kutno,29
+m. Ostrołęka,29
+m. Otwock,29
+m. Pabianice,29
+gm. Namysłów,28
+gm. Wyszków,28
+m. Bełchatów,28
+m. Krosno,28
+m. Sieradz,28
+m. Tczew,28
+m. Tomaszów Mazowiecki,28
+gm. Biskupiec,27
+gm. Chełmiec,27
+gm. Gorzyce,27
+gm. Prudnik,27
+gm. Wadowice,27
+m. Skierniewice,27
+m. Świętochłowice,27
+gm. Busko-Zdrój,26
+gm. Czarna,26
+gm. Dębno,26
+gm. Grodzisk Mazowiecki,26
+gm. Koluszki,26
+gm. Krzeszowice,26
+gm. Olesno,26
+gm. Pleszew,26
+gm. Police,26
+gm. Trzebinia,26
+m. Pruszków,26
+m. Świnoujście,26
+gm. Jarocin,25
+gm. Końskie,25
+gm. Opoczno,25
+gm. Skawina,25
+gm. Staszów,25
+gm. Strzegom,25
+gm. Wieluń,25
+m. Cieszyn,25
+m. Oświęcim,25
+m. Racibórz,25
+m. Wodzisław Śląski,25
+m. Świdnica,25
+Włochy,24
+gm. Andrychów,24
+gm. Biała,24
+gm. Bogatynia,24
+gm. Gryfino,24
+gm. Głubczyce,24
+gm. Kolbuszowa,24
+gm. Miechów,24
+gm. Nakło nad Notecią,24
+gm. Oborniki,24
+gm. Swarzędz,24
+gm. Zabierzów,24
+gm. Świecie,24
+m. Chojnice,24
+m. Ciechanów,24
+m. Dębica,24
+m. Kołobrzeg,24
+m. Kwidzyn,24
+m. Legionowo,24
+m. Puławy,24
+m. Radomsko,24
+m. Sopot,24
+m. Starachowice,24
+m. Starogard Gdański,24
+m. Szczecinek,24
+m. Zakopane,24
+m. Żyrardów,24
+gm. Czarny Dunajec,23
+gm. Czechowice-Dziedzice,23
+gm. Gostyń,23
+gm. Jędrzejów,23
+gm. Koronowo,23
+gm. Kozienice,23
+gm. Ropczyce,23
+gm. Sędziszów Małopolski,23
+gm. Słubice,23
+gm. Wolsztyn,23
+gm. Ziębice,23
+gm. Śrem,23
+gm. Środa Wielkopolska,23
+gm. Żnin,23
+m. Bolesławiec,23
+m. Czeladź,23
+m. Dzierżoniów,23
+m. Kraśnik,23
+m. Lębork,23
+m. Myszków,23
+m. Oleśnica,23
+m. Sanok,23
+m. Sochaczew,23
+m. Zduńska Wola,23
+m. Łowicz,23
+m. Świdnik,23
+m. Żary,23
+m. Żory,23
+Ursus,22
+gm. Barczewo,22
+gm. Brzesko,22
+gm. Dębica,22
+gm. Jasło,22
+gm. Konstancin-Jeziorna,22
+gm. Kruszwica,22
+gm. Morąg,22
+gm. Mosina,22
+gm. Ryki,22
+gm. Ustrzyki Dolne,22
+gm. Świebodzin,22
+m. Bielawa,22
+m. Brzeg,22
+m. Ełk,22
+m. Gorlice,22
+m. Jarosław,22
+m. Knurów,22
+m. Mikołów,22
+m. Mińsk Mazowiecki,22
+m. Nowy Targ,22
+m. Łuków,22
+gm. Czerwionka-Leszczyny,21
+gm. Krotoszyn,21
+gm. Kęty,21
+gm. Nowy Targ,21
+gm. Ożarów Mazowiecki,21
+gm. Rawicz,21
+gm. Strzyżów,21
+gm. Zamość,21
+gm. Ząbkowice Śląskie,21
+m. Malbork,21
+m. Płońsk,21
+m. Rumia,21
+m. Wejherowo,21
+gm. Bytów,20
+gm. Dąbrowa Tarnowska,20
+gm. Goleniów,20
+gm. Głuchołazy,20
+gm. Kartuzy,20
+gm. Opatów,20
+gm. Osiek,20
+gm. Piaski,20
+gm. Sanok,20
+gm. Starogard Gdański,20
+gm. Szubin,20
+gm. Tuchola,20
+gm. Wiśniowa,20
+gm. Wolbrom,20
+m. Augustów,20
+m. Szczytno,20
+m. Żywiec,20
+Wilanów,19
+gm. Grodków,19
+gm. Jasienica,19
+gm. Kłodawa,19
+gm. Limanowa,19
+gm. Milicz,19
+gm. Międzyrzecz,19
+gm. Olsztynek,19
+gm. Poddębice,19
+gm. Pułtusk,19
+gm. Skoczów,19
+gm. Trzebnica,19
+gm. Węgorzewo,19
+gm. Żukowo,19
+m. Iława,19
+m. Kłodzko,19
+m. Lubliniec,19
+m. Ostróda,19
+m. Oława,19
+Żoliborz,19
+gm. Bystrzyca Kłodzka,18
+gm. Chełm,18
+gm. Chmielnik,18
+gm. Dobra,18
+gm. Dobre Miasto,18
+gm. Krapkowice,18
+gm. Krasnystaw,18
+gm. Krynica-Zdrój,18
+gm. Mogilno,18
+gm. Nowa Dęba,18
+gm. Nowogard,18
+gm. Pisz,18
+gm. Prabuty,18
+gm. Strzelin,18
+gm. Łask,18
+m. Białogard,18
+m. Dęblin,18
+m. Krasnystaw,18
+m. Nowa Sól,18
+m. Zgorzelec,18
+gm. Barlinek,17
+gm. Brzozów,17
+gm. Choszczno,17
+gm. Czernichów,17
+gm. Długołęka,17
+gm. Gołdap,17
+gm. Gryfice,17
+gm. Głogów Małopolski,17
+gm. Kępno,17
+gm. Nowa Sarzyna,17
+gm. Nowy Tomyśl,17
+gm. Opole Lubelskie,17
+gm. Ostrzeszów,17
+gm. Pilzno,17
+gm. Pińczów,17
+gm. Rymanów,17
+gm. Siechnice,17
+gm. Sokółka,17
+gm. Stąporków,17
+gm. Sulęcin,17
+gm. Szamotuły,17
+gm. Tarnów,17
+gm. Tuszyn,17
+m. Bochnia,17
+m. Chełmno,17
+m. Kostrzyn nad Odrą,17
+m. Pionki,17
+gm. Baranów,16
+gm. Bochnia,16
+gm. Brwinów,16
+gm. Bychawa,16
+gm. Ciechanowiec,16
+gm. Czersk,16
+gm. Drawsko Pomorskie,16
+gm. Dąbrowa,16
+gm. Gniew,16
+gm. Godów,16
+gm. Grójec,16
+gm. Góra Kalwaria,16
+gm. Głogówek,16
+gm. Iłża,16
+gm. Kalwaria Zebrzydowska,16
+gm. Kazimierza Wielka,16
+gm. Miastko,16
+gm. Michałowice,16
+gm. Myślibórz,16
+gm. Nasielsk,16
+gm. Nowa Ruda,16
+gm. Oborniki Śląskie,16
+gm. Odolanów,16
+gm. Olecko,16
+gm. Ostrów Mazowiecka,16
+gm. Oświęcim,16
+gm. Piekoszów,16
+gm. Puck,16
+gm. Wołów,16
+gm. Wschowa,16
+gm. Złocieniec,16
+gm. Łapy,16
+gm. Łochów,16
+gm. Łuków,16
+gm. Łęczna,16
+gm. Śmigiel,16
+gm. Środa Śląska,16
+m. Brodnica,16
+m. Garwolin,16
+m. Gostynin,16
+m. Kętrzyn,16
+m. Orzesze,16
+m. Ozorków,16
+m. Pruszcz Gdański,16
+m. Rypin,16
+m. Sierpc,16
+m. Łaziska Górne,16
+m. Świebodzice,16
+gm. Andrespol,15
+gm. Barcin,15
+gm. Biała Podlaska,15
+gm. Białe Błota,15
+gm. Biłgoraj,15
+gm. Bobrowniki,15
+gm. Bolesławiec,15
+gm. Brody,15
+gm. Darłowo,15
+gm. Drezdenko,15
+gm. Dukla,15
+gm. Dębowiec,15
+gm. Gniewkowo,15
+gm. Grybów,15
+gm. Główczyce,15
+gm. Jabłonna,15
+gm. Jedlicze,15
+gm. Kadzidło,15
+gm. Komorniki,15
+gm. Kórnik,15
+gm. Kępice,15
+gm. Kłodzko,15
+gm. Leżajsk,15
+gm. Libiąż,15
+gm. Lubicz,15
+gm. Nałęczów,15
+gm. Nidzica,15
+gm. Niemodlin,15
+gm. Nisko,15
+gm. Nowy Dwór Gdański,15
+gm. Ostróda,15
+gm. Otmuchów,15
+gm. Ozimek,15
+gm. Pasłęk,15
+gm. Pawłowice,15
+gm. Polkowice,15
+gm. Rogoźno,15
+gm. Stary Sącz,15
+gm. Sulechów,15
+gm. Sępólno Krajeńskie,15
+gm. Sławno,15
+gm. Tuchów,15
+gm. Tłuszcz,15
+gm. Ujazd,15
+gm. Wilków,15
+gm. Wołczyn,15
+gm. Wronki,15
+gm. Zgorzelec,15
+m. Bieruń,15
+m. Biłgoraj,15
+m. Hajnówka,15
+m. Hrubieszów,15
+m. Kobyłka,15
+m. Koło,15
+m. Limanowa,15
+m. Mława,15
+m. Przasnysz,15
+m. Sandomierz,15
+gm. Chojnice,14
+gm. Chorkówka,14
+gm. Chęciny,14
+gm. Daleszyce,14
+gm. Dopiewo,14
+gm. Janowiec Wielkopolski,14
+gm. Klucze,14
+gm. Kolno,14
+gm. Krosno Odrzańskie,14
+gm. Lwówek Śląski,14
+gm. Mszana Dolna,14
+gm. Mszczonów,14
+gm. Muszyna,14
+gm. Myszyniec,14
+gm. Ożarów,14
+gm. Paczków,14
+gm. Pawłów,14
+gm. Proszowice,14
+gm. Pruszcz Gdański,14
+gm. Radomyśl Wielki,14
+gm. Radymno,14
+gm. Stężyca,14
+gm. Szczekociny,14
+gm. Sztum,14
+gm. Tarnowo Podgórne,14
+gm. Trzcianka,14
+gm. Ustka,14
+gm. Warka,14
+gm. Wejherowo,14
+gm. Wierzbica,14
+gm. Wiązowna,14
+gm. Więcbork,14
+gm. Wolin,14
+gm. Zielonki,14
+gm. Zwoleń,14
+gm. Świdnica,14
+gm. Żyraków,14
+m. Bielsk Podlaski,14
+m. Działdowo,14
+m. Grajewo,14
+m. Jawor,14
+m. Kościan,14
+m. Luboń,14
+m. Marki,14
+m. Nowa Ruda,14
+m. Przeworsk,14
+m. Turek,14
+m. Zambrów,14
+m. Ząbki,14
+m. Żagań,14
+Rembertów,13
+gm. Aleksandrów Łódzki,13
+gm. Bolków,13
+gm. Branice,13
+gm. Brusy,13
+gm. Chorzele,13
+gm. Czerwonak,13
+gm. Drzewica,13
+gm. Dzierżoniów,13
+gm. Fredropol,13
+gm. Giżycko,13
+gm. Gostynin,13
+gm. Górzno,13
+gm. Jelcz-Laskowice,13
+gm. Jeżowe,13
+gm. Juchnowiec Kościelny,13
+gm. Kcynia,13
+gm. Kobierzyce,13
+gm. Kłobuck,13
+gm. Lesznowola,13
+gm. Lipno,13
+gm. Małkinia Górna,13
+gm. Nieporęt,13
+gm. Niepołomice,13
+gm. Nowa Wieś Lęborska,13
+gm. Osielsko,13
+gm. Ostrów Wielkopolski,13
+gm. Oława,13
+gm. Podegrodzie,13
+gm. Poniatowa,13
+gm. Poświętne,13
+gm. Pyrzyce,13
+gm. Rabka-Zdrój,13
+gm. Radzymin,13
+gm. Raszyn,13
+gm. Rogowo,13
+gm. Rokietnica,13
+gm. Rybno,13
+gm. Sokołów Małopolski,13
+gm. Tomaszów Lubelski,13
+gm. Wieruszów,13
+gm. Włoszczowa,13
+gm. Zbrosławice,13
+gm. Łańcut,13
+gm. Łomianki,13
+gm. Łomża,13
+m. Bartoszyce,13
+m. Giżycko,13
+m. Konstantynów Łódzki,13
+m. Mrągowo,13
+m. Nowy Dwór Mazowiecki,13
+m. Ostrów Mazowiecka,13
+m. Rydułtowy,13
+m. Ustroń,13
+m. Wałcz,13
+m. Łańcut,13
+gm. Adamów,12
+gm. Baranów Sandomierski,12
+gm. Bełżyce,12
+gm. Biecz,12
+gm. Bodzechów,12
+gm. Boguchwała,12
+gm. Brzeszcze,12
+gm. Brzeziny,12
+gm. Brzostek,12
+gm. Błonie,12
+gm. Cyców,12
+gm. Dydnia,12
+gm. Działdowo,12
+gm. Dzierzgoń,12
+gm. Dąbie,12
+gm. Ełk,12
+gm. Garwolin,12
+gm. Gdów,12
+gm. Gogolin,12
+gm. Goleszów,12
+gm. Gubin,12
+gm. Gąbin,12
+gm. Harasiuki,12
+gm. Hrubieszów,12
+gm. Iława,12
+gm. Kamień Pomorski,12
+gm. Kobyla Góra,12
+gm. Konopiska,12
+gm. Konopnica,12
+gm. Kościerzyna,12
+gm. Krasnobród,12
+gm. Kąty Wrocławskie,12
+gm. Kętrzyn,12
+gm. Kłomnice,12
+gm. Laszki,12
+gm. Lesko,12
+gm. Lipsko,12
+gm. Lisia Góra,12
+gm. Liszki,12
+gm. Lubartów,12
+gm. Lubsko,12
+gm. Maków Podhalański,12
+gm. Michałowo,12
+gm. Międzychód,12
+gm. Międzyrzec Podlaski,12
+gm. Moszczenica,12
+gm. Mońki,12
+gm. Murowana Goślina,12
+gm. Nowogrodziec,12
+gm. Nowy Żmigród,12
+gm. Oleśnica,12
+gm. Orły,12
+gm. Ostrówek,12
+gm. Parczew,12
+gm. Pelplin,12
+gm. Piotrków Kujawski,12
+gm. Pobiedziska,12
+gm. Przemyśl,12
+gm. Skarbimierz,12
+gm. Skołyszyn,12
+gm. Skwierzyna,12
+gm. Solec Kujawski,12
+gm. Suchedniów,12
+gm. Sulejów,12
+gm. Syców,12
+gm. Szczebrzeszyn,12
+gm. Szprotawa,12
+gm. Sława,12
+gm. Słomniki,12
+gm. Tczew,12
+gm. Trzemeszno,12
+gm. Warta,12
+gm. Władysławowo,12
+gm. Zakliczyn,12
+gm. Zakrzew,12
+gm. Zambrów,12
+gm. Łabiszyn,12
+gm. Łącko,12
+gm. Świętajno,12
+gm. Żurawica,12
+m. Głowno,12
+m. Kościerzyna,12
+m. Lubartów,12
+m. Tomaszów Lubelski,12
+m. Wągrowiec,12
+m. Zielonka,12
+m. Łęczyca,12
+gm. Białobrzegi,11
+gm. Bobolice,11
+gm. Bodzentyn,11
+gm. Bojanów,11
+gm. Brzeg Dolny,11
+gm. Brzeźnica,11
+gm. Błaszki,11
+gm. Chocianów,11
+gm. Choroszcz,11
+gm. Czarnków,11
+gm. Debrzno,11
+gm. Dobrcz,11
+gm. Dobre,11
+gm. Dąbrowa Białostocka,11
+gm. Frysztak,11
+gm. Gorlice,11
+gm. Grudziądz,11
+gm. Góra,11
+gm. Inowrocław,11
+gm. Jabłonka,11
+gm. Janów,11
+gm. Janów Lubelski,11
+gm. Jarosław,11
+gm. Jeleśnia,11
+gm. Kamień,11
+gm. Kietrz,11
+gm. Korfantów,11
+gm. Kostrzyn,11
+gm. Koziegłowy,11
+gm. Kościan,11
+gm. Kożuchów,11
+gm. Kraśniczyn,11
+gm. Książ Wielki,11
+gm. Kunów,11
+gm. Lubin,11
+gm. Lubrza,11
+gm. Lubsza,11
+gm. Lyski,11
+gm. Miedźna,11
+gm. Mircze,11
+gm. Mińsk Mazowiecki,11
+gm. Morawica,11
+gm. Mrocza,11
+gm. Mstów,11
+gm. Mykanów,11
+gm. Niebylec,11
+gm. Niemce,11
+gm. Nozdrzec,11
+gm. Padew Narodowa,11
+gm. Pakość,11
+gm. Pleśna,11
+gm. Pniewy,11
+gm. Pruchnik,11
+gm. Przecław,11
+gm. Przeworsk,11
+gm. Raba Wyżna,11
+gm. Radków,11
+gm. Radłów,11
+gm. Rydzyna,11
+gm. Rzgów,11
+gm. Sanniki,11
+gm. Sianów,11
+gm. Sicienko,11
+gm. Sierakowice,11
+gm. Spytkowice,11
+gm. Strzelce Krajeńskie,11
+gm. Strzelno,11
+gm. Susz,11
+gm. Szczurowa,11
+gm. Szczytno,11
+gm. Szydłowiec,11
+gm. Sędziszów,11
+gm. Trzebiatów,11
+gm. Trzebownisko,11
+gm. Turawa,11
+gm. Ulanów,11
+gm. Wielgie,11
+gm. Witnica,11
+gm. Wiązownica,11
+gm. Wojaszówka,11
+gm. Wojnicz,11
+gm. Wyrzysk,11
+gm. Zagnańsk,11
+gm. Zaleszany,11
+gm. Zator,11
+gm. Zbąszyń,11
+gm. Łaszczów,11
+gm. Łobez,11
+gm. Żabno,11
+gm. Żarów,11
+m. Chodzież,11
+m. Lidzbark Warmiński,11
+m. Lędziny,11
+m. Międzyrzec Podlaski,11
+m. Wąbrzeźno,11
+m. Złotoryja,11
+Wesoła,10
+gm. Aleksandrów Kujawski,10
+gm. Annopol,10
+gm. Biskupice,10
+gm. Bodzanów,10
+gm. Borowa,10
+gm. Brodnica,10
+gm. Brudzeń Duży,10
+gm. Bukowina Tatrzańska,10
+gm. Błażowa,10
+gm. Chełmża,10
+gm. Chojna,10
+gm. Czarne,10
+gm. Dobrzyń nad Wisłą,10
+gm. Dubiecko,10
+gm. Dynów,10
+gm. Dywity,10
+gm. Dąbrowa Chełmińska,10
+gm. Garbów,10
+gm. Grodzisk Wielkopolski,10
+gm. Gródek,10
+gm. Halinów,10
+gm. Jadów,10
+gm. Janikowo,10
+gm. Jednorożec,10
+gm. Jeżów,10
+gm. Jodłownik,10
+gm. Kamieniec Ząbkowicki,10
+gm. Kocmyrzów-Luborzyca,10
+gm. Koniusza,10
+gm. Korczyna,10
+gm. Korsze,10
+gm. Końskowola,10
+gm. Kwidzyn,10
+gm. Kłaj,10
+gm. Lasowice Wielkie,10
+gm. Lidzbark,10
+gm. Mrozy,10
+gm. Nowe,10
+gm. Olszanka,10
+gm. Opalenica,10
+gm. Pawłosiów,10
+gm. Pieńsk,10
+gm. Pilawa,10
+gm. Połczyn-Zdrój,10
+gm. Praszka,10
+gm. Pruszcz,10
+gm. Płoty,10
+gm. Raków,10
+gm. Reszel,10
+gm. Rozprza,10
+gm. Rudnik,10
+gm. Rudziniec,10
+gm. Sadki,10
+gm. Stargard,10
+gm. Stoczek Łukowski,10
+gm. Stryków,10
+gm. Supraśl,10
+gm. Szaflary,10
+gm. Szumowo,10
+gm. Szydłowo,10
+gm. Słupno,10
+gm. Słupsk,10
+gm. Tarnowiec,10
+gm. Trzydnik Duży,10
+gm. Turobin,10
+gm. Uście Gorlickie,10
+gm. Wartkowice,10
+gm. Werbkowice,10
+gm. Wieleń,10
+gm. Wilkowice,10
+gm. Witkowo,10
+gm. Woźniki,10
+gm. Włodawa,10
+gm. Zabłudów,10
+gm. Zdzieszowice,10
+gm. Zelów,10
+gm. Złotniki Kujawskie,10
+gm. Łazy,10
+gm. Łopuszno,10
+gm. Ślesin,10
+gm. Świlcza,10
+gm. Żagań,10
+gm. Żmigród,10
+gm. Żuromin,10
+m. Aleksandrów Kujawski,10
+m. Braniewo,10
+m. Gubin,10
+m. Kamienna Góra,10
+m. Kolno,10
+m. Lipno,10
+m. Lubań,10
+m. Piastów,10
+m. Radlin,10
+m. Radzyń Podlaski,10
+m. Siemiatycze,10
+m. Złotów,10
+gm. Aleksandrów,9
+gm. Babice,9
+gm. Bartoszyce,9
+gm. Biała Piska,9
+gm. Bieliny,9
+gm. Bielsk Podlaski,9
+gm. Bircza,9
+gm. Brańsk,9
+gm. Brańszczyk,9
+gm. Brześć Kujawski,9
+gm. Byczyna,9
+gm. Celestynów,9
+gm. Chełmek,9
+gm. Choceń,9
+gm. Cmolas,9
+gm. Czermin,9
+gm. Dobczyce,9
+gm. Dobra (Szczecińska),9
+gm. Dobrzyca,9
+gm. Frampol,9
+gm. Godziesze Wielkie,9
+gm. Gorzkowice,9
+gm. Grabów nad Prosną,9
+gm. Iwierzyce,9
+gm. Izbica,9
+gm. Jedlińsk,9
+gm. Kamionka,9
+gm. Karczew,9
+gm. Kańczuga,9
+gm. Korzenna,9
+gm. Kozłów,9
+gm. Kołobrzeg,9
+gm. Kramsk,9
+gm. Krasne,9
+gm. Krobia,9
+gm. Krośniewice,9
+gm. Krzepice,9
+gm. Krzywcza,9
+gm. Lubień Kujawski,9
+gm. Magnuszew,9
+gm. Masłów,9
+gm. Medyka,9
+gm. Miejsce Piastowe,9
+gm. Mielec,9
+gm. Mieroszów,9
+gm. Milejów,9
+gm. Mirzec,9
+gm. Międzylesie,9
+gm. Mogielnica,9
+gm. Mogilany,9
+gm. Narol,9
+gm. Niedrzwica Duża,9
+gm. Niwiska,9
+gm. Nowe Skalmierzyce,9
+gm. Nowy Wiśnicz,9
+gm. Ostrów,9
+gm. Parzęczew,9
+gm. Piecki,9
+gm. Pionki,9
+gm. Poczesna,9
+gm. Pokój,9
+gm. Polanów,9
+gm. Przasnysz,9
+gm. Przechlewo,9
+gm. Przemęt,9
+gm. Prószków,9
+gm. Psary,9
+gm. Puszcza Mariańska,9
+gm. Puławy,9
+gm. Pysznica,9
+gm. Pątnów,9
+gm. Płońsk,9
+gm. Rachanie,9
+gm. Radoszyce,9
+gm. Radzyń Podlaski,9
+gm. Ruciane-Nida,9
+gm. Ryglice,9
+gm. Rzezawa,9
+gm. Rząśnik,9
+gm. Siedlec,9
+gm. Siedliszcze,9
+gm. Sieniawa,9
+gm. Skarszewy,9
+gm. Skaryszew,9
+gm. Skoki,9
+gm. Skrzyszów,9
+gm. Skulsk,9
+gm. Sośnicowice,9
+gm. Stanin,9
+gm. Stawiguda,9
+gm. Stegna,9
+gm. Sułkowice,9
+gm. Szczucin,9
+gm. Tarczyn,9
+gm. Tarnogród,9
+gm. Tarnów Opolski,9
+gm. Terespol,9
+gm. Tomaszów Mazowiecki,9
+gm. Tworóg,9
+gm. Tyszowce,9
+gm. Ulhówek,9
+gm. Urzędów,9
+gm. Wadowice Górne,9
+gm. Wałcz,9
+gm. Wieliszew,9
+gm. Wielka Wieś,9
+gm. Wiskitki,9
+gm. Wólka,9
+gm. Wąsosz,9
+gm. Zakrzewo,9
+gm. Zarzecze,9
+gm. Zbuczyn,9
+gm. Zduny,9
+gm. Zgierz,9
+gm. Łagów,9
+gm. Łapsze Niżne,9
+gm. Łasin,9
+gm. Łosice,9
+gm. Łużna,9
+gm. Łęczyca,9
+gm. Łęczyce,9
+gm. Świerzawa,9
+gm. Żarki,9
+gm. Żarnów,9
+gm. Żychlin,9
+gm. Żyrzyn,9
+m. Boguszów-Gorce,9
+m. Brzeziny,9
+m. Bukowno,9
+m. Człuchów,9
+m. Józefów,9
+m. Leżajsk,9
+m. Pieszyce,9
+m. Pyskowice,9
+m. Rawa Mazowiecka,9
+m. Reda,9
+m. Sokołów Podlaski,9
+m. Sulejówek,9
+m. Ustka,9
+gm. Alwernia,8
+gm. Belsk Duży,8
+gm. Bełchatów,8
+gm. Biały Dunajec,8
+gm. Bielawy,8
+gm. Blachownia,8
+gm. Blizanów,8
+gm. Bojszowy,8
+gm. Brenna,8
+gm. Charsznica,8
+gm. Chodzież,8
+gm. Chojnów,8
+gm. Chynów,8
+gm. Cieszanów,8
+gm. Czaplinek,8
+gm. Czchów,8
+gm. Czorsztyn,8
+gm. Czudec,8
+gm. Dmosin,8
+gm. Dołhobyczów,8
+gm. Dragacz,8
+gm. Dwikozy,8
+gm. Działoszyn,8
+gm. Firlej,8
+gm. Gorzów Śląski,8
+gm. Goworowo,8
+gm. Gozdowo,8
+gm. Gołuchów,8
+gm. Gościeradów,8
+gm. Grębów,8
+gm. Górno,8
+gm. Haczów,8
+gm. Hyżne,8
+gm. Jastków,8
+gm. Jastrzębia,8
+gm. Jerzmanowice-Przeginia,8
+gm. Jeziorany,8
+gm. Józefów,8
+gm. Kamienna Góra,8
+gm. Kamień Krajeński,8
+gm. Kamionka Wielka,8
+gm. Klembów,8
+gm. Klimontów,8
+gm. Kobylin,8
+gm. Kock,8
+gm. Komarów-Osada,8
+gm. Kowalewo Pomorskie,8
+gm. Kołaczyce,8
+gm. Krajenka,8
+gm. Krzywda,8
+gm. Kutno,8
+gm. Kąkolewnica,8
+gm. Kłoczew,8
+gm. Lelis,8
+gm. Leśna,8
+gm. Leśnica,8
+gm. Lidzbark Warmiński,8
+gm. Lubaczów,8
+gm. Lubawa,8
+gm. Lubań,8
+gm. Lądek-Zdrój,8
+gm. Maciejowice,8
+gm. Majdan Królewski,8
+gm. Manowo,8
+gm. Marcinowice,8
+gm. Miedźno,8
+gm. Mierzęcice,8
+gm. Miączyn,8
+gm. Miękinia,8
+gm. Miłkowice,8
+gm. Mrągowo,8
+gm. Nawojowa,8
+gm. Nieborów,8
+gm. Nowa Słupia,8
+gm. Nowa Wieś Wielka,8
+gm. Nowe Miasto Lubawskie,8
+gm. Nędza,8
+gm. Okonek,8
+gm. Oleszyce,8
+gm. Orneta,8
+gm. Orzysz,8
+gm. Osieczna,8
+gm. Osięciny,8
+gm. Pacanów,8
+gm. Pasym,8
+gm. Pcim,8
+gm. Pilchowice,8
+gm. Piwniczna-Zdrój,8
+gm. Piątnica,8
+gm. Pomiechówek,8
+gm. Popielów,8
+gm. Poronin,8
+gm. Porąbka,8
+gm. Połaniec,8
+gm. Prostki,8
+gm. Przygodzice,8
+gm. Przysucha,8
+gm. Płoniawy-Bramura,8
+gm. Radziechowy-Wieprz,8
+gm. Radziłów,8
+gm. Rajcza,8
+gm. Raniżów,8
+gm. Roźwienica,8
+gm. Rudnik nad Sanem,8
+gm. Santok,8
+gm. Secemin,8
+gm. Serock,8
+gm. Siedlce,8
+gm. Siemiatycze,8
+gm. Sieroszewice,8
+gm. Siewierz,8
+gm. Skierniewice,8
+gm. Skępe,8
+gm. Sochaczew,8
+gm. Solec nad Wisłą,8
+gm. Solec-Zdrój,8
+gm. Solina,8
+gm. Stare Babice,8
+gm. Stare Miasto,8
+gm. Staroźreby,8
+gm. Strawczyn,8
+gm. Strumień,8
+gm. Stryszawa,8
+gm. Strzyżewice,8
+gm. Stęszew,8
+gm. Suchy Las,8
+gm. Suwałki,8
+gm. Szadek,8
+gm. Teresin,8
+gm. Toszek,8
+gm. Turek,8
+gm. Tuszów Narodowy,8
+gm. Tykocin,8
+gm. Ujście,8
+gm. Wieprz,8
+gm. Wierzchosławice,8
+gm. Wilamowice,8
+gm. Wodzisław,8
+gm. Wojcieszków,8
+gm. Wola Krzysztoporska,8
+gm. Wolbórz,8
+gm. Wręczyca Wielka,8
+gm. Wydminy,8
+gm. Wysokie Mazowieckie,8
+gm. Węgierska Górka,8
+gm. Węgliniec,8
+gm. Zagórz,8
+gm. Zaklików,8
+gm. Zawoja,8
+gm. Zebrzydowice,8
+gm. Zławieś Wielka,8
+gm. Łambinowice,8
+gm. Łososina Dolna,8
+gm. Łowicz,8
+gm. Łyse,8
+gm. Łyszkowice,8
+gm. Ścinawa,8
+gm. Świdwin,8
+gm. Żary,8
+gm. Żelazków,8
+gm. Żerków,8
+gm. Żółkiewka,8
+m. Chełmża,8
+m. Darłowo,8
+m. Poręba,8
+m. Radzionków,8
+m. Szklarska Poręba,8
+m. Słupca,8
+m. Wisła,8
+m. Świdwin,8
+gm. Abramów,7
+gm. Bedlno,7
+gm. Biała Rawska,7
+gm. Bielsk,7
+gm. Bierawa,7
+gm. Bierutów,7
+gm. Bobowa,7
+gm. Bogoria,7
+gm. Bojanowo,7
+gm. Bolesław,7
+gm. Borzęcin,7
+gm. Bralin,7
+gm. Brzyska,7
+gm. Burzenin,7
+gm. Cegłów,7
+gm. Chlewiska,7
+gm. Choczewo,7
+gm. Ciepielów,7
+gm. Czarna Białostocka,7
+gm. Czarnocin,7
+gm. Czernica,7
+gm. Czerwieńsk,7
+gm. Czerwin,7
+gm. Człuchów,7
+gm. Dobrodzień,7
+gm. Dolice,7
+gm. Domaszowice,7
+gm. Dorohusk,7
+gm. Dąbrowa Biskupia,7
+gm. Dąbrówka,7
+gm. Dębnica Kaszubska,7
+gm. Gardeja,7
+gm. Gaszowice,7
+gm. Gawłuszowice,7
+gm. Goczałkowice-Zdrój,7
+gm. Golina,7
+gm. Gorzków,7
+gm. Gołańcz,7
+gm. Gołcza,7
+gm. Grabów,7
+gm. Grodzisko Dolne,7
+gm. Gromnik,7
+gm. Gruta,7
+gm. Gryfów Śląski,7
+gm. Gródek nad Dunajcem,7
+gm. Górowo Iławeckie,7
+gm. Hajnówka,7
+gm. Hażlach,7
+gm. Horyniec-Zdrój,7
+gm. Igołomia-Wawrzeńczyce,7
+gm. Iwonicz-Zdrój,7
+gm. Jaktorów,7
+gm. Jaworzyna Śląska,7
+gm. Jedlnia-Letnisko,7
+gm. Jemielnica,7
+gm. Jordanów,7
+gm. Kalinowo,7
+gm. Kisielice,7
+gm. Kleczew,7
+gm. Kobylnica,7
+gm. Kolbudy,7
+gm. Kondratowice,7
+gm. Koniecpol,7
+gm. Koprzywnica,7
+gm. Kosakowo,7
+gm. Kosów Lacki,7
+gm. Kotuń,7
+gm. Kowala,7
+gm. Kołbiel,7
+gm. Koźmin Wielkopolski,7
+gm. Krasocin,7
+gm. Krzynowłoga Mała,7
+gm. Krzyżanowice,7
+gm. Ksawerów,7
+gm. Kurów,7
+gm. Laskowa,7
+gm. Lelów,7
+gm. Lewin Brzeski,7
+gm. Lipinki,7
+gm. Lipowa,7
+gm. Lubawka,7
+gm. Lubiewo,7
+gm. Lubiszyn,7
+gm. Lubochnia,7
+gm. Lubomia,7
+gm. Lubomierz,7
+gm. Lubraniec,7
+gm. Lubycza Królewska,7
+gm. Luzino,7
+gm. Marciszów,7
+gm. Margonin,7
+gm. Maszewo,7
+gm. Małogoszcz,7
+gm. Mełgiew,7
+gm. Miedziana Góra,7
+gm. Mikołajki,7
+gm. Mikstat,7
+gm. Milówka,7
+gm. Miłosław,7
+gm. Mniów,7
+gm. Murów,7
+gm. Mysłakowice,7
+gm. Nadarzyn,7
+gm. Nagłowice,7
+gm. Nielisz,7
+gm. Niemcza,7
+gm. Nowa Sól,7
+gm. Nowe Miasteczko,7
+gm. Nowodwór,7
+gm. Nowogród Bobrzański,7
+gm. Obrowo,7
+gm. Obryte,7
+gm. Olszewo-Borki,7
+gm. Olsztyn,7
+gm. Osiecznica,7
+gm. Ozorków,7
+gm. Pawłowiczki,7
+gm. Pielgrzymka,7
+gm. Pieniężno,7
+gm. Pierzchnica,7
+gm. Pilica,7
+gm. Platerów,7
+gm. Podgórzyn,7
+gm. Poraj,7
+gm. Przedbórz,7
+gm. Przemków,7
+gm. Przytoczna,7
+gm. Przyłęk,7
+gm. Pszczew,7
+gm. Pszczółki,7
+gm. Raczki,7
+gm. Radecznica,7
+gm. Radgoszcz,7
+gm. Radziejów,7
+gm. Rakszawa,7
+gm. Raszków,7
+gm. Rejowiec,7
+gm. Resko,7
+gm. Rogów,7
+gm. Rozogi,7
+gm. Rudna,7
+gm. Rychwał,7
+gm. Ryczywół,7
+gm. Ryn,7
+gm. Ryńsk,7
+gm. Rzekuń,7
+gm. Samborzec,7
+gm. Sienno,7
+gm. Sieradz,7
+gm. Sitkówka-Nowiny,7
+gm. Skała,7
+gm. Sokołów Podlaski,7
+gm. Somianka,7
+gm. Sompolno,7
+gm. Stara Biała,7
+gm. Stawiski,7
+gm. Stronie Śląskie,7
+gm. Strzałkowo,7
+gm. Suchowola,7
+gm. Susiec,7
+gm. Suszec,7
+gm. Szczecinek,7
+gm. Szczerców,7
+gm. Szelków,7
+gm. Szemud,7
+gm. Szydłów,7
+gm. Sędziejowice,7
+gm. Sępopol,7
+gm. Tolkmicko,7
+gm. Topólka,7
+gm. Torzym,7
+gm. Trojanów,7
+gm. Tryńcza,7
+gm. Trzebieszów,7
+gm. Ułęż,7
+gm. Waganiec,7
+gm. Wasilków,7
+gm. Widawa,7
+gm. Wielkie Oczy,7
+gm. Wierzbinek,7
+gm. Wierzchlas,7
+gm. Wohyń,7
+gm. Wyryki,7
+gm. Wyszogród,7
+gm. Wągrowiec,7
+gm. Władysławów,7
+gm. Zarszyn,7
+gm. Zblewo,7
+gm. Zduńska Wola,7
+gm. Złoczew,7
+gm. Złotoryja,7
+gm. Złoty Stok,7
+gm. Łabunie,7
+gm. Łodygowice,7
+gm. Łomazy,7
+gm. Łubnice,7
+gm. Łukowica,7
+gm. Świeszyno,7
+gm. Żarnowiec,7
+gm. Żórawina,7
+m. Ciechocinek,7
+m. Golub-Dobrzyń,7
+m. Kowary,7
+m. Kudowa-Zdrój,7
+m. Lubaczów,7
+m. Maków Mazowiecki,7
+m. Milanówek,7
+m. Nowe Miasto Lubawskie,7
+m. Puck,7
+m. Puszczykowo,7
+m. Sucha Beskidzka,7
+m. Wojkowice,7
+m. Włodawa,7
+statki,7
+Słupia Konecka,6
+gm. Augustów,6
+gm. Baborów,6
+gm. Baboszewo,6
+gm. Baranowo,6
+gm. Bestwina,6
+gm. Białaczów,6
+gm. Bisztynek,6
+gm. Bledzew,6
+gm. Bobrowo,6
+gm. Borne Sulinowo,6
+gm. Borzechów,6
+gm. Brudzew,6
+gm. Brójce,6
+gm. Buczkowice,6
+gm. Budzów,6
+gm. Buk,6
+gm. Bukowiec,6
+gm. Bulkowo,6
+gm. Będzino,6
+gm. Cekcyn,6
+gm. Chodecz,6
+gm. Chłopice,6
+gm. Ciasna,6
+gm. Czempiń,6
+gm. Czernikowo,6
+gm. Czosnów,6
+gm. Dobiegniew,6
+gm. Dobroń,6
+gm. Dobrzeń Wielki,6
+gm. Domaniów,6
+gm. Domaradz,6
+gm. Drawno,6
+gm. Drobin,6
+gm. Drużbice,6
+gm. Drwinia,6
+gm. Dygowo,6
+gm. Działoszyce,6
+gm. Dzierzkowice,6
+gm. Dzikowiec,6
+gm. Dębe Wielkie,6
+gm. Długosiodło,6
+gm. Garbatka-Letnisko,6
+gm. Gidle,6
+gm. Gierałtowice,6
+gm. Gietrzwałd,6
+gm. Gniewino,6
+gm. Gnojnik,6
+gm. Gostycyn,6
+gm. Gościno,6
+gm. Grajewo,6
+gm. Grodziczno,6
+gm. Góra Świętej Małgorzaty,6
+gm. Gózd,6
+gm. Gąsawa,6
+gm. Głowaczów,6
+gm. Głowno,6
+gm. Głusk,6
+gm. Głuszyca,6
+gm. Istebna,6
+gm. Iwaniska,6
+gm. Iwanowice,6
+gm. Izbica Kujawska,6
+gm. Izbicko,6
+gm. Iłowa,6
+gm. Iłów,6
+gm. Jabłonowo Pomorskie,6
+gm. Jabłoń,6
+gm. Jaraczewo,6
+gm. Jastrowie,6
+gm. Jeziora Wielkie,6
+gm. Jeżewo,6
+gm. Jodłowa,6
+gm. Jonkowo,6
+gm. Józefów nad Wisłą,6
+gm. Kalisz Pomorski,6
+gm. Kamienica,6
+gm. Karczmiska,6
+gm. Karlino,6
+gm. Kazanów,6
+gm. Kazimierz Biskupi,6
+gm. Kaźmierz,6
+gm. Kikół,6
+gm. Kochanowice,6
+gm. Kodeń,6
+gm. Kodrąb,6
+gm. Kolonowskie,6
+gm. Komańcza,6
+gm. Komprachcice,6
+gm. Koszęcin,6
+gm. Kowale Oleckie,6
+gm. Kozłowo,6
+gm. Kołbaskowo,6
+gm. Krasnosielc,6
+gm. Krokowa,6
+gm. Krościenko nad Dunajcem,6
+gm. Krzanowice,6
+gm. Krzczonów,6
+gm. Krzemieniewo,6
+gm. Krzywiń,6
+gm. Kuryłówka,6
+gm. Kuźnia Raciborska,6
+gm. Kęsowo,6
+gm. Kłecko,6
+gm. Legnickie Pole,6
+gm. Leszno,6
+gm. Liw,6
+gm. Lubasz,6
+gm. Lubichowo,6
+gm. Lutomiersk,6
+gm. Lututów,6
+gm. Lwówek,6
+gm. Maków,6
+gm. Mała Wieś,6
+gm. Miastków Kościelny,6
+gm. Michów,6
+gm. Miejska Górka,6
+gm. Mielno,6
+gm. Mieszkowice,6
+gm. Mochowo,6
+gm. Modliborzyce,6
+gm. Mokrsko,6
+gm. Mordy,6
+gm. Młodzieszyn,6
+gm. Niedźwiada,6
+gm. Niegowa,6
+gm. Nowe Miasto nad Pilicą,6
+gm. Nowosolna,6
+gm. Ogrodzieniec,6
+gm. Opatówek,6
+gm. Opinogóra Górna,6
+gm. Orchowo,6
+gm. Orońsko,6
+gm. Osiek Jasielski,6
+gm. Osjaków,6
+gm. Pajęczno,6
+gm. Pakosławice,6
+gm. Pawonków,6
+gm. Pietrowice Wielkie,6
+gm. Piszczac,6
+gm. Popów,6
+gm. Prochowice,6
+gm. Przeworno,6
+gm. Przyrów,6
+gm. Puchaczów,6
+gm. Purda,6
+gm. Pyzdry,6
+gm. Raciąż,6
+gm. Radomsko,6
+gm. Radzanowo,6
+gm. Radzanów,6
+gm. Radziejowice,6
+gm. Radzyń Chełmiński,6
+gm. Rakoniewice,6
+gm. Repki,6
+gm. Reńska Wieś,6
+gm. Rojewo,6
+gm. Ropa,6
+gm. Rutki,6
+gm. Rypin,6
+gm. Rytwiany,6
+gm. Rzeczenica,6
+gm. Rzepiennik Strzyżewski,6
+gm. Rędziny,6
+gm. Sadowne,6
+gm. Sawin,6
+gm. Siennica,6
+gm. Sierpc,6
+gm. Sitno,6
+gm. Skalbmierz,6
+gm. Skierbieszów,6
+gm. Skoroszyce,6
+gm. Skrwilno,6
+gm. Skórzec,6
+gm. Smętowo Graniczne,6
+gm. Sobków,6
+gm. Sobolew,6
+gm. Sobótka,6
+gm. Sorkwity,6
+gm. Sońsk,6
+gm. Sośnie,6
+gm. Stare Bogaczowice,6
+gm. Stary Dzików,6
+gm. Stary Lubotyń,6
+gm. Stary Targ,6
+gm. Stary Zamość,6
+gm. Stoczek,6
+gm. Stolno,6
+gm. Stromiec,6
+gm. Strzegowo,6
+gm. Szczawnica,6
+gm. Szczuczyn,6
+gm. Szczutowo,6
+gm. Szczytna,6
+gm. Szepietowo,6
+gm. Sękowa,6
+gm. Słupca,6
+gm. Tarłów,6
+gm. Tokarnia,6
+gm. Trawniki,6
+gm. Troszyn,6
+gm. Tuczno,6
+gm. Tuliszków,6
+gm. Tułowice,6
+gm. Twardogóra,6
+gm. Tychowo,6
+gm. Tyczyn,6
+gm. Ulan-Majorat,6
+gm. Uniejów,6
+gm. Walce,6
+gm. Warlubie,6
+gm. Warta Bolesławiecka,6
+gm. Waśniów,6
+gm. Wielbark,6
+gm. Wielgomłyny,6
+gm. Wieliczki,6
+gm. Wielka Nieszawka,6
+gm. Wilczyn,6
+gm. Wisznia Mała,6
+gm. Wińsko,6
+gm. Wleń,6
+gm. Wodynie,6
+gm. Wojciechów,6
+gm. Wola Uhruska,6
+gm. Wolanów,6
+gm. Wyry,6
+gm. Wysokie,6
+gm. Wąchock,6
+gm. Wąpielsk,6
+gm. Włocławek,6
+gm. Włoszakowice,6
+gm. Zadzim,6
+gm. Zagrodno,6
+gm. Zagórów,6
+gm. Zakrzówek,6
+gm. Zatory,6
+gm. Załuski,6
+gm. Ćmielów,6
+gm. Łagiewniki,6
+gm. Łaziska,6
+gm. Łobżenica,6
+gm. Łubniany,6
+gm. Łąck,6
+gm. Łączna,6
+gm. Śliwice,6
+gm. Świekatowo,6
+gm. Świerklaniec,6
+gm. Świerklany,6
+gm. Świnna,6
+gm. Świątki,6
+gm. Żelechów,6
+m. Chojnów,6
+m. Czarnków,6
+m. Karpacz,6
+m. Radziejów,6
+m. Sławno,6
+m. Wysokie Mazowieckie,6
+m. Węgrów,6
+gm. Babiak,5
+gm. Barciany,5
+gm. Baruchowo,5
+gm. Barwice,5
+gm. Baćkowice,5
+gm. Bałtów,5
+gm. Białogard,5
+gm. Białośliwie,5
+gm. Biały Bór,5
+gm. Bliżyn,5
+gm. Bogdaniec,5
+gm. Boguty-Pianki,5
+gm. Bolimów,5
+gm. Boniewo,5
+gm. Borek Wielkopolski,5
+gm. Borki,5
+gm. Borkowice,5
+gm. Borowie,5
+gm. Boćki,5
+gm. Braniewo,5
+gm. Brzeźnio,5
+gm. Brzuze,5
+gm. Buczek,5
+gm. Budzyń,5
+gm. Bytoń,5
+gm. Błędów,5
+gm. Chodel,5
+gm. Chrząstowice,5
+gm. Chybie,5
+gm. Ciężkowice,5
+gm. Cybinka,5
+gm. Czarna Dąbrówka,5
+gm. Czarny Bór,5
+gm. Czemierniki,5
+gm. Czerniejewo,5
+gm. Czerwińsk nad Wisłą,5
+gm. Czyżew,5
+gm. Dalików,5
+gm. Deszczno,5
+gm. Dobromierz,5
+gm. Dobrzyniewo Duże,5
+gm. Dolsk,5
+gm. Doruchów,5
+gm. Drawsko,5
+gm. Drelów,5
+gm. Drohiczyn,5
+gm. Drzycim,5
+gm. Duszniki,5
+gm. Dzierzgowo,5
+gm. Dziwnów,5
+gm. Dzwola,5
+gm. Dźwierzuty,5
+gm. Elbląg,5
+gm. Fabianki,5
+gm. Fajsławice,5
+gm. Galewice,5
+gm. Gać,5
+gm. Giby,5
+gm. Glinojeck,5
+gm. Gniezno,5
+gm. Gnojno,5
+gm. Godziszów,5
+gm. Golub-Dobrzyń,5
+gm. Gomunice,5
+gm. Goniądz,5
+gm. Goraj,5
+gm. Goszczanów,5
+gm. Gowarczów,5
+gm. Grabica,5
+gm. Grabowo,5
+gm. Grodzisk,5
+gm. Grzegorzew,5
+gm. Gzy,5
+gm. Herby,5
+gm. Horodło,5
+gm. Izabelin,5
+gm. Iłowo-Osada,5
+gm. Jabłonna Lacka,5
+gm. Janowice Wielkie,5
+gm. Janowiec Kościelny,5
+gm. Janów Podlaski,5
+gm. Jasienica Rosielna,5
+gm. Jedwabne,5
+gm. Kaczory,5
+gm. Kamienica Polska,5
+gm. Kamieniec,5
+gm. Kamiennik,5
+gm. Kamieńsk,5
+gm. Kazimierz Dolny,5
+gm. Kałuszyn,5
+gm. Kijewo Królewskie,5
+gm. Kleszczów,5
+gm. Koczała,5
+gm. Komarówka Podlaska,5
+gm. Koneck,5
+gm. Konstantynów,5
+gm. Kornowac,5
+gm. Korytnica,5
+gm. Kotla,5
+gm. Kotlin,5
+gm. Kowiesy,5
+gm. Kozy,5
+gm. Kołaczkowo,5
+gm. Koźminek,5
+gm. Krasiczyn,5
+gm. Kraśnik,5
+gm. Krempna,5
+gm. Kroczyce,5
+gm. Krośnice,5
+gm. Krynice,5
+gm. Krzeszów,5
+gm. Krzymów,5
+gm. Krzyż Wielkopolski,5
+gm. Księżpol,5
+gm. Kunice,5
+gm. Kurzętnik,5
+gm. Kuźnica,5
+gm. Leśniowice,5
+gm. Lipie,5
+gm. Lipnica,5
+gm. Lipnica Murowana,5
+gm. Lipnica Wielka,5
+gm. Lipsk,5
+gm. Lisewo,5
+gm. Lisków,5
+gm. Lniano,5
+gm. Lubanie,5
+gm. Lubenia,5
+gm. Lubień,5
+gm. Lubowidz,5
+gm. Ludwin,5
+gm. Michałów,5
+gm. Miedzna,5
+gm. Mieścisko,5
+gm. Milanów,5
+gm. Milejczyce,5
+gm. Mirosławiec,5
+gm. Mirsk,5
+gm. Międzyzdroje,5
+gm. Miłakowo,5
+gm. Miłomłyn,5
+gm. Mucharz,5
+gm. Narew,5
+gm. Naruszewo,5
+gm. Nowa Karczma,5
+gm. Nowa Sucha,5
+gm. Nowe Brzesko,5
+gm. Nowe Miasto,5
+gm. Nowe Miasto nad Wartą,5
+gm. Nowy Duninów,5
+gm. Nowy Korczyn,5
+gm. Obrazów,5
+gm. Oksa,5
+gm. Olszanica,5
+gm. Orla,5
+gm. Osie,5
+gm. Ostrów Lubelski,5
+gm. Pabianice,5
+gm. Pacyna,5
+gm. Pakosław,5
+gm. Papowo Biskupie,5
+gm. Pałecznica,5
+gm. Piątek,5
+gm. Pokrzywnica,5
+gm. Policzna,5
+gm. Polska Cerekiew,5
+gm. Poniec,5
+gm. Postomino,5
+gm. Potęgowo,5
+gm. Prażmów,5
+gm. Prusice,5
+gm. Przesmyki,5
+gm. Przodkowo,5
+gm. Przytyk,5
+gm. Pęczniew,5
+gm. Płośnica,5
+gm. Raciechowice,5
+gm. Raciążek,5
+gm. Radomyśl nad Sanem,5
+gm. Rajgród,5
+gm. Rawa Mazowiecka,5
+gm. Rokitno,5
+gm. Rościszewo,5
+gm. Ruda Maleniecka,5
+gm. Ruda-Huta,5
+gm. Rudniki,5
+gm. Rusiec,5
+gm. Rybczewice,5
+gm. Ryjewo,5
+gm. Rzeczniów,5
+gm. Rzepin,5
+gm. Rząśnia,5
+gm. Sejny,5
+gm. Serniki,5
+gm. Serokomla,5
+gm. Siennica Różana,5
+gm. Siepraw,5
+gm. Skarżysko Kościelne,5
+gm. Smyków,5
+gm. Sobienie-Jeziory,5
+gm. Sokoły,5
+gm. Somonino,5
+gm. Sośno,5
+gm. Spiczyn,5
+gm. Srokowo,5
+gm. Stanisławów,5
+gm. Stara Kamienica,5
+gm. Stara Kiszewa,5
+gm. Stara Kornica,5
+gm. Stary Dzierzgoń,5
+gm. Sterdyń,5
+gm. Stoszowice,5
+gm. Strachówka,5
+gm. Stryszów,5
+gm. Strzeleczki,5
+gm. Stubno,5
+gm. Sulików,5
+gm. Sulmierzyce,5
+gm. Sułoszowa,5
+gm. Sułów,5
+gm. Szamocin,5
+gm. Szastarka,5
+gm. Szerzyny,5
+gm. Sławoborze,5
+gm. Słopnice,5
+gm. Słońsk,5
+gm. Tarnawatka,5
+gm. Tczów,5
+gm. Telatyn,5
+gm. Trzciana,5
+gm. Trzebiechów,5
+gm. Trzebiel,5
+gm. Trąbki Wielkie,5
+gm. Turośń Kościelna,5
+gm. Tymbark,5
+gm. Tłuchowo,5
+gm. Uchanie,5
+gm. Ujsoły,5
+gm. Unisław,5
+gm. Urszulin,5
+gm. Walim,5
+gm. Wielichowo,5
+gm. Wielopole Skrzyńskie,5
+gm. Wierzchowo,5
+gm. Wietrzychowice,5
+gm. Wilczyce,5
+gm. Wilga,5
+gm. Wisznice,5
+gm. Wizna,5
+gm. Wiązów,5
+gm. Wiślica,5
+gm. Wiśniew,5
+gm. Wiśniewo,5
+gm. Wojsławice,5
+gm. Wąsewo,5
+gm. Wąwolnica,5
+gm. Włodowice,5
+gm. Zabrodzie,5
+gm. Zakroczym,5
+gm. Zalesie,5
+gm. Zawadzkie,5
+gm. Zawidz,5
+gm. Zbójna,5
+gm. Zbąszynek,5
+gm. Zembrzyce,5
+gm. Zwierzyniec,5
+gm. Złotów,5
+gm. Łabowa,5
+gm. Ładzice,5
+gm. Łapanów,5
+gm. Łaskarzew,5
+gm. Łubianka,5
+gm. Łysomice,5
+gm. Śniadowo,5
+gm. Świecie nad Osą,5
+gm. Świedziebnia,5
+gm. Świercze,5
+gm. Świerczów,5
+gm. Świątniki Górne,5
+gm. Żabia Wola,5
+gm. Żołynia,5
+m. Dynów,5
+m. Jedlina-Zdrój,5
+m. Kalety,5
+m. Miasteczko Śląskie,5
+m. Pszów,5
+m. Szczawno-Zdrój,5
+m. Sławków,5
+m. Świeradów-Zdrój,5
+gm. Adamówka,4
+gm. Andrzejewo,4
+gm. Babimost,4
+gm. Bakałarzewo,4
+gm. Baligród,4
+gm. Banie,4
+gm. Banie Mazurskie,4
+gm. Bardo,4
+gm. Bartniczka,4
+gm. Batorz,4
+gm. Besko,4
+gm. Bełżec,4
+gm. Bierzwnik,4
+gm. Biesiekierz,4
+gm. Biszcza,4
+gm. Bobowo,4
+gm. Brochów,4
+gm. Brzozie,4
+gm. Brąszewice,4
+gm. Budry,4
+gm. Bystra-Sidzina,4
+gm. Bądkowo,4
+gm. Cedry Wielkie,4
+gm. Ceków-Kolonia,4
+gm. Cewice,4
+gm. Chełmno,4
+gm. Chmielno,4
+gm. Chocz,4
+gm. Chodów,4
+gm. Chrostkowo,4
+gm. Ciechanów,4
+gm. Ciechocin,4
+gm. Cisek,4
+gm. Czarnia,4
+gm. Czarnożyły,4
+gm. Czernice Borowe,4
+gm. Czerniewice,4
+gm. Czerwonka,4
+gm. Czyże,4
+gm. Człopa,4
+gm. Damasławek,4
+gm. Dziadkowice,4
+gm. Dąbrowa Zielona,4
+gm. Dąbrowice,4
+gm. Dąbrówno,4
+gm. Dębowa Kłoda,4
+gm. Dłutów,4
+gm. Frombork,4
+gm. Gaworzyce,4
+gm. Gielniów,4
+gm. Gizałki,4
+gm. Gniewoszów,4
+gm. Grabowiec,4
+gm. Grabów nad Pilicą,4
+gm. Granowo,4
+gm. Grodziec,4
+gm. Gromadka,4
+gm. Grunwald,4
+gm. Grzmiąca,4
+gm. Grębocice,4
+gm. Gręboszów,4
+gm. Górzyca,4
+gm. Głogów,4
+gm. Głuchów,4
+gm. Hanna,4
+gm. Hańsk,4
+gm. Huszlew,4
+gm. Imielno,4
+gm. Inowłódz,4
+gm. Irządze,4
+gm. Iwkowa,4
+gm. Jakubów,4
+gm. Janowo,4
+gm. Jarczów,4
+gm. Jasień,4
+gm. Jawornik Polski,4
+gm. Jaworze,4
+gm. Jaśliska,4
+gm. Jaświły,4
+gm. Jedwabno,4
+gm. Jerzmanowa,4
+gm. Jeżów Sudecki,4
+gm. Joniec,4
+gm. Jutrosin,4
+gm. Karniewo,4
+gm. Karsin,4
+gm. Kawęczyn,4
+gm. Kije,4
+gm. Kiszkowo,4
+gm. Kiwity,4
+gm. Kleszczele,4
+gm. Klonowa,4
+gm. Kluczewsko,4
+gm. Klwów,4
+gm. Kobiele Wielkie,4
+gm. Kobylin-Borzymy,4
+gm. Korczew,4
+gm. Kostomłoty,4
+gm. Koszarawa,4
+gm. Kowal,4
+gm. Kołczygłowy,4
+gm. Koło,4
+gm. Kościelec,4
+gm. Kościelisko,4
+gm. Krościenko Wyżne,4
+gm. Kruklanki,4
+gm. Krupski Młyn,4
+gm. Kruszyna,4
+gm. Krynki,4
+gm. Krzykosy,4
+gm. Krzyżanów,4
+gm. Książ Wielkopolski,4
+gm. Książki,4
+gm. Kuczbork-Osada,4
+gm. Kulesze Kościelne,4
+gm. Lanckorona,4
+gm. Latowicz,4
+gm. Lelkowo,4
+gm. Leoncin,4
+gm. Leśna Podlaska,4
+gm. Lgota Wielka,4
+gm. Linia,4
+gm. Liniewo,4
+gm. Lipiany,4
+gm. Lipinki Łużyckie,4
+gm. Lipka,4
+gm. Lipnik,4
+gm. Lipowiec Kościelny,4
+gm. Lubniewice,4
+gm. Lutocin,4
+gm. Lutowiska,4
+gm. Malanów,4
+gm. Malbork,4
+gm. Malczyce,4
+gm. Malechowo,4
+gm. Marianowo,4
+gm. Marklowice,4
+gm. Markowa,4
+gm. Markuszów,4
+gm. Masłowice,4
+gm. Małdyty,4
+gm. Mały Płock,4
+gm. Miastkowo,4
+gm. Mieleszyn,4
+gm. Mietków,4
+gm. Mikołajki Pomorskie,4
+gm. Międzybórz,4
+gm. Mniszków,4
+gm. Moryń,4
+gm. Moskorzew,4
+gm. Mszana,4
+gm. Męcinka,4
+gm. Mędrzechów,4
+gm. Narewka,4
+gm. Nekla,4
+gm. Niechlów,4
+gm. Niedźwiedź,4
+gm. Nowa Brzeźnica,4
+gm. Nowe Ostrowy,4
+gm. Nowinka,4
+gm. Nowogród,4
+gm. Nowy Dwór,4
+gm. Nowy Kawęczyn,4
+gm. Nowy Staw,4
+gm. Nur,4
+gm. Nurzec-Stacja,4
+gm. Obsza,4
+gm. Ochotnica Dolna,4
+gm. Odrzywół,4
+gm. Olszyna,4
+gm. Osieck,4
+gm. Ostrowite,4
+gm. Otyń,4
+gm. Ośno Lubuskie,4
+gm. Ożarowice,4
+gm. Panki,4
+gm. Paradyż,4
+gm. Parchowo,4
+gm. Parysów,4
+gm. Perlejewo,4
+gm. Pełczyce,4
+gm. Pogorzela,4
+gm. Potok Górny,4
+gm. Potworów,4
+gm. Połajewo,4
+gm. Promna,4
+gm. Przelewice,4
+gm. Przystajń,4
+gm. Przytuły,4
+gm. Puńsk,4
+gm. Pępowo,4
+gm. Płużnica,4
+gm. Radomin,4
+gm. Radowo Małe,4
+gm. Radziemice,4
+gm. Recz,4
+gm. Regimin,4
+gm. Rejowiec Fabryczny,4
+gm. Rogóźno,4
+gm. Rokiciny,4
+gm. Rusinów,4
+gm. Rychtal,4
+gm. Rymań,4
+gm. Rzeczyca,4
+gm. Rąbino,4
+gm. Ręczno,4
+gm. Sabnie,4
+gm. Sadkowice,4
+gm. Sadowie,4
+gm. Sarnaki,4
+gm. Sidra,4
+gm. Siekierczyn,4
+gm. Siemień,4
+gm. Siemkowice,4
+gm. Sieraków,4
+gm. Skomlin,4
+gm. Skórcz,4
+gm. Skąpe,4
+gm. Sochocin,4
+gm. Sokolniki,4
+gm. Sosnowica,4
+gm. Starcza,4
+gm. Stare Juchy,4
+gm. Stare Kurowo,4
+gm. Stary Brus,4
+gm. Stopnica,4
+gm. Strzelce,4
+gm. Strzelce Wielkie,4
+gm. Subkowy,4
+gm. Suchań,4
+gm. Suchożebry,4
+gm. Sulęczyno,4
+gm. Suraż,4
+gm. Sypniewo,4
+gm. Szczawin Kośc.,4
+gm. Szczytniki,4
+gm. Szlichtyngowa,4
+gm. Szudziałowo,4
+gm. Szypliszki,4
+gm. Słaboszów,4
+gm. Słupia (Jędrzejowska),4
+gm. Tereszpol,4
+gm. Tomice,4
+gm. Trzcianne,4
+gm. Trzciel,4
+gm. Trzcińsko-Zdrój,4
+gm. Trzyciąż,4
+gm. Tuchomie,4
+gm. Turośl,4
+gm. Udanin,4
+gm. Uścimów,4
+gm. Widuchowa,4
+gm. Wieczfnia Kościelna,4
+gm. Wielowieś,4
+gm. Wieniawa,4
+gm. Wierzbno,4
+gm. Wilczęta,4
+gm. Wilkołaz,4
+gm. Winnica,4
+gm. Witonia,4
+gm. Wojciechowice,4
+gm. Wola Mysłowska,4
+gm. Wróblew,4
+gm. Wysoka,4
+gm. Węgorzyno,4
+gm. Zalewo,4
+gm. Zaniemyśl,4
+gm. Zapolice,4
+gm. Zbiczno,4
+gm. Zbójno,4
+gm. Zwierzyn,4
+gm. Zębowice,4
+gm. Łoniów,4
+gm. Łopiennik Górny,4
+gm. Łubowo,4
+gm. Łękawica,4
+gm. Łęki Szlacheckie,4
+gm. Świerzno,4
+gm. Świnice Warckie,4
+gm. Święciechowa,4
+gm. Żegocina,4
+gm. Żelechlinek,4
+gm. Żytno,4
+m. Duszniki-Zdrój,4
+m. Grybów,4
+m. Imielin,4
+m. Jordanów,4
+m. Kowal,4
+m. Lubawa,4
+m. Mszana Dolna,4
+m. Piechowice,4
+m. Polanica-Zdrój,4
+m. Sejny,4
+m. Szczyrk,4
+m. Łaskarzew,4
+gm. Bargłów Kościelny,3
+gm. Bejsce,3
+gm. Białopole,3
+gm. Białowieża,3
+gm. Bielany,3
+gm. Bieżuń,3
+gm. Bobrowice,3
+gm. Bojadła,3
+gm. Boleszkowice,3
+gm. Borzytuchom,3
+gm. Borów,3
+gm. Brok,3
+gm. Budziszewice,3
+gm. Bukowsko,3
+gm. Będków,3
+gm. Cedynia,3
+gm. Ceranów,3
+gm. Chełm Śląski,3
+gm. Chociwel,3
+gm. Chotcza,3
+gm. Chrzypsko Wielkie,3
+gm. Chąśno,3
+gm. Cielądz,3
+gm. Ciepłowody,3
+gm. Cieszków,3
+gm. Czarna Woda,3
+gm. Czastary,3
+gm. Damnica,3
+gm. Dobroszyce,3
+gm. Dobryszyce,3
+gm. Domanice,3
+gm. Domaniewice,3
+gm. Dominowo,3
+gm. Dubeninki,3
+gm. Dubicze Cerkiewne,3
+gm. Dubienka,3
+gm. Dziadowa Kłoda,3
+gm. Dziemiany,3
+gm. Dzierzążnia,3
+gm. Dębowa Łąka,3
+gm. Fałków,3
+gm. Filipów,3
+gm. Gilowice,3
+gm. Godkowo,3
+gm. Golczewo,3
+gm. Goszczyn,3
+gm. Gołymin-Ośrodek,3
+gm. Grudusk,3
+gm. Grębków,3
+gm. Janowiec,3
+gm. Jasieniec,3
+gm. Jastarnia,3
+gm. Jastrząb,3
+gm. Jejkowice,3
+gm. Jeleniewo,3
+gm. Jemielno,3
+gm. Jeziorzany,3
+gm. Kaliska,3
+gm. Kargowa,3
+gm. Kiernozia,3
+gm. Kiełczygłów,3
+gm. Kleszczewo,3
+gm. Kluki,3
+gm. Klukowo,3
+gm. Knyszyn,3
+gm. Kobiór,3
+gm. Kobylanka,3
+gm. Kocierzew Południowy,3
+gm. Korycin,3
+gm. Koszyce,3
+gm. Kołaki Kościelne,3
+gm. Krasnopol,3
+gm. Kraszewice,3
+gm. Krotoszyce,3
+gm. Krypno,3
+gm. Krzeszyce,3
+gm. Kuślin,3
+gm. Kwilcz,3
+gm. Lichnowy,3
+gm. Lipce Reymontowskie,3
+gm. Lipusz,3
+gm. Lubomino,3
+gm. Lądek,3
+gm. Markusy,3
+gm. Małomice,3
+gm. Miasteczko Krajeńskie,3
+gm. Mielnik,3
+gm. Mirów,3
+gm. Miłki,3
+gm. Mokobody,3
+gm. Morzeszczyn,3
+gm. Mycielin,3
+gm. Młynary,3
+gm. Młynarze,3
+gm. Mściwojów,3
+gm. Niechanowo,3
+gm. Niegosławice,3
+gm. Nowe Piekuty,3
+gm. Nowogródek Pomorski,3
+gm. Ojrzeń,3
+gm. Olszówka,3
+gm. Opatowiec,3
+gm. Ornontowice,3
+gm. Osiek Mały,3
+gm. Ostaszewo,3
+gm. Perzów,3
+gm. Podedwórze,3
+gm. Polanka Wielka,3
+gm. Potok Wielki,3
+gm. Pozezdrze,3
+gm. Przeciszów,3
+gm. Przedecz,3
+gm. Przerośl,3
+gm. Przewóz,3
+gm. Przybiernów,3
+gm. Przykona,3
+gm. Przywidz,3
+gm. Płaska,3
+gm. Płoskinia,3
+gm. Racławice,3
+gm. Rewal,3
+gm. Rossosz,3
+gm. Rozdrażew,3
+gm. Ruja,3
+gm. Rutka-Tartak,3
+gm. Rychliki,3
+gm. Rzewnie,3
+gm. Różan,3
+gm. Sadlinki,3
+gm. Sieciechów,3
+gm. Siemiątkowo,3
+gm. Smołdzino,3
+gm. Sosnówka,3
+gm. Stara Błotnica,3
+gm. Stara Dąbrowa,3
+gm. Stare Czarnowo,3
+gm. Stare Pole,3
+gm. Stawiszyn,3
+gm. Stepnica,3
+gm. Studzienice,3
+gm. Stupsk,3
+gm. Suchy Dąb,3
+gm. Szczaniec,3
+gm. Szreńsk,3
+gm. Sztabin,3
+gm. Sławatycze,3
+gm. Tarnówka,3
+gm. Trzcinica,3
+gm. Trzeszczany,3
+gm. Tuczna,3
+gm. Tuczępy,3
+gm. Wapno,3
+gm. Wicko,3
+gm. Wiżajny,3
+gm. Wyszki,3
+gm. Wyśmierzyce,3
+gm. Wądroże Wielkie,3
+gm. Zabór,3
+gm. Zaręby Kościelne,3
+gm. Zawichost,3
+gm. Zawonia,3
+gm. Złota,3
+gm. Łanięta,3
+gm. Łukowa,3
+gm. Łukta,3
+gm. Łęka Opatowska,3
+gm. Ślemień,3
+gm. Żmudź,3
+m. Brańsk,3
+m. Gozdnica,3
+m. Nieszawa,3
+m. Piława Górna,3
+m. Raciąż,3
+m. Radymno,3
+m. Rejowiec Fabryczny,3
+m. Terespol,3
+m. Wojcieszów,3
+m. Łeba,3
