@@ -13,7 +13,7 @@ from runda1 where siedziba in (SELECT siedziba FROM runda1 GROUP BY siedziba HAV
 order by siedziba;
 ```
 
-Plus node scripts calculating standard deviation and Pearson's second skewness coefficient.
+Plus node scripts calculating some strange things.
 
 ## Results and discussion
 
