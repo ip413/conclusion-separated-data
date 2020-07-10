@@ -22,7 +22,7 @@ title: Presidential election in Poland, 2020
 email: ip413as@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I like data
-baseurl: "/jekyll-test" # the subpath of your site, e.g. /blog
+baseurl: "/presidential-election-poland-2020" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 github_username:  ip413
