@@ -1,0 +1,127 @@
+48	Kraków
+26	Wrocław
+22	Białystok
+22	Warszawa
+20	Bydgoszcz
+15	Poznań
+10	Gdynia
+9	Gliwice
+9	Szczecin
+8	Łódź
+8	Włocławek
+7	Gdańsk
+7	Katowice
+7	Toruń
+6	Częstochowa
+5	Bytom
+5	Piaseczno
+5	Tychy
+4	Chorzów
+4	Wałbrzych
+3	Garwolin
+3	Nowy Sącz
+3	Ruda Śląska
+3	Zabrze
+2	Bełchatów
+2	Bolesławiec
+2	Dąbrowa Górnicza
+2	Godów
+2	Kazimierza Wielka
+2	Krzeszowice
+2	Lublin
+2	Puszczykowo
+2	Rzeszów
+2	Sosnowiec
+2	Tarnobrzeg
+2	Tarnowskie Góry
+1	Andrespol
+1	Będzin
+1	Bielawa
+1	Bielsko-Biała
+1	Bieruń
+1	Bobrowniki
+1	Bulowice
+1	Chęciny
+1	Chodecz
+1	Czarna
+1	Czernikowo
+1	Dęblin
+1	Dobroń
+1	Działoszyn
+1	Elbląg
+1	Głogów
+1	Głogów Małopolski
+1	Główczyce
+1	Gniew
+1	Gorzów Wielkopolski
+1	Halinów
+1	JABŁONNA
+1	Jarocin
+1	Jasło
+1	Jaworzno
+1	Jejkowice
+1	Jordanów
+1	Kadzidło
+1	Katowice (wejście od ul. Migdałowców)
+1	Kielce
+1	Kleosin
+1	Koło
+1	Kołobrzeg
+1	Koluszki
+1	Konin
+1	Kościerzyna
+1	Kostrzyn nad Odrą
+1	Koziegłowy
+1	Krosno
+1	Łącko
+1	Łęczna
+1	Lipsk
+1	Łochów
+1	Lubartów
+1	Lubin
+1	Luboń
+1	Łużna
+1	Miejska Górka
+1	Nawojowa
+1	Niemcz
+1	Niepołomice
+1	Nysa
+1	Oborniki
+1	Ornontowice
+1	Osielsko
+1	Ostrów Wielkopolski
+1	Ożarów
+1	Ozorków
+1	Pabianice
+1	Piaski
+1	Piekary Śląskie
+1	Pisarzowice
+1	Poddębice
+1	Przasnysz
+1	Przeźmierowo
+1	Puławy
+1	Pułtusk
+1	Raczki
+1	Raszyn
+1	Rościszewo
+1	Rybnik
+1	Skierniewice
+1	Spytkowice
+1	Środa Wielkopolska
+1	Stare Babice
+1	Stargard
+1	Swarzędz
+1	Świdnik
+1	Świerczyniec
+1	Tarnów
+1	Teresin
+1	Trzebnica
+1	Tyszowce
+1	Wejherowo
+1	Wielogłowy
+1	Wieluń
+1	Wronki
+1	Zawiercie
+1	Zielona Góra
+1	Zielonki
+1	Złoty Stok
