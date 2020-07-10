@@ -17,7 +17,7 @@ Plus node scripts calculating some strange things.
 
 ## Results and discussion
 
-11 files (only for 4 candidates with highest results):
+JSON files (only for 4 candidates with highest results):
 * [bosak-took-votes-address.json]({{site.baseurl}}/assets/json/02-skew-bosak-took-votes-address.json)
 * [bosak-took-votes.json]({{site.baseurl}}/assets/json/02-skew-bosak-took-votes.json)
 * [duda-took-votes-address.json]({{site.baseurl}}/assets/json/02-skew-duda-took-votes-address.json)
