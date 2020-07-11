@@ -184,6 +184,12 @@ table {
   table td {
     border: 1px solid #e8e8e8; }
 
+.center {
+  text-align: center; }
+
+.small {
+  font-size: small; }
+
 /**
  * Site header
  */
