@@ -190,6 +190,12 @@ table {
 .small {
   font-size: small; }
 
+.site-title:hover {
+  color: #111;
+  text-decoration: none; }
+.site-title, .site-title:visited {
+  color: #424242; }
+
 /**
  * Site header
  */
@@ -201,13 +207,10 @@ table {
 
 .site-title {
   font-size: 26px;
-  font-weight: 300;
-  line-height: 54px;
-  letter-spacing: -1px;
-  margin-bottom: 0;
-  float: left; }
-  .site-title, .site-title:visited {
-    color: #424242; }
+  float: left;
+  font-size: 26px;
+  line-height: 1.5rem;
+  padding-top: 1.2rem; }
 
 .site-nav {
   float: right;
