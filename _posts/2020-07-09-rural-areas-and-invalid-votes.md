@@ -2,6 +2,8 @@
 layout: post
 title: Percentage of invalid votes when candidate had result above official, rural and urban areas - round 1
 ---
+![invalid-votes-result-above-official-urban]({{site.baseurl}}/assets/img/invalid-votes-result-above-official-urban.png)
+<!--more-->
 
 ## SQL queries
 ```sql
@@ -33,8 +35,8 @@ select avg(glosy_niewazne_proc) from runda1 where typ_obszaru="miasto" and wynik
 
 ## Result
 
-![]({{site.baseurl}}/assets/img/invalid-votes-result-above-official-rural.png)
-![]({{site.baseurl}}/assets/img/invalid-votes-result-above-official-urban.png)
+![invalid-votes-result-above-official-rural]({{site.baseurl}}/assets/img/invalid-votes-result-above-official-rural.png)
+![invalid-votes-result-above-official-urban]({{site.baseurl}}/assets/img/invalid-votes-result-above-official-urban.png)
 
 ## Discussion
 

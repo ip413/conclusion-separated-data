@@ -2,6 +2,8 @@
 layout: post
 title: 'Official result vs average result in polling stations - round 1'
 ---
+![results-official-vs-average]({{site.baseurl}}/assets/img/results-official-vs-average.png)
+<!--more-->
 
 ## SQL queries
 Official:
@@ -45,8 +47,8 @@ from runda1;
 | avgerage | 2.03    | 6.51  | 48.99 | 12.81    | 0.20     | 2.60     | 0.13       | 0.15    | 26.19       | 0.13      | 0.24   |
 
 
-![]({{site.baseurl}}/assets/img/results-official-vs-average.png)
-![]({{site.baseurl}}/assets/img/results-official-vs-average-2.png)
+![results-official-vs-average]({{site.baseurl}}/assets/img/results-official-vs-average.png)
+![results-official-vs-average]({{site.baseurl}}/assets/img/results-official-vs-average-2.png)
 
 ## Discussion
 

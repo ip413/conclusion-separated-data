@@ -2,6 +2,8 @@
 layout: post
 title: 'Polling stations with the same address but different results - round 1'
 ---
+![one-polling-station-wroclaw-school-84]({{site.baseurl}}/assets/img/one-polling-station-wroclaw-school-84.png)
+<!--more-->
 
 ## SQL query
 
@@ -112,9 +114,9 @@ Bosak is "stealing" votes in one of the polling stations in **Liceum Ogólnokszt
 <br/> <br/>
 Duda is "stealing" votes in one of the polling stations in **Szkoła Podstawowa nr 84, ul. Łukasza Górnickiego 20, 50-337 Wrocław**
 
-![]({{site.baseurl}}/assets/img/one-polling-station-wroclaw-school-84.png)
+![one-polling-station-wroclaw-school-84]({{site.baseurl}}/assets/img/one-polling-station-wroclaw-school-84.png)
 
-```sql
+```json
         "biedron": [
             2.68292682926829,
             5.94405594405594,
@@ -173,10 +175,10 @@ Duda is "stealing" votes in one of the polling stations in **Szkoła Podstawowa 
 ```
 <br/> <br/>
 Holownia is "stealing" votes in one of the polling stations in **Szkoła Podstawowa Nr 27, ul. Podedworze 16, 30-686 Kraków**
-![]({{site.baseurl}}/assets/img/one-polling-station-krakow-school-27.png)
+![one-polling-station-krakow-school-27]({{site.baseurl}}/assets/img/one-polling-station-krakow-school-27.png)
 
 
-```sql
+```json
         "biedron": [
             2.02702702702703,
             3.63214837712519,
@@ -236,9 +238,9 @@ Holownia is "stealing" votes in one of the polling stations in **Szkoła Podstaw
 
 <br/> <br/>
 Trzaskowski is "stealing" votes in one of the polling stations in **Szkoła Podstawowa nr 5, ul. Żwirki i Wigury 1, 87-100 Toruń**
-![]({{site.baseurl}}/assets/img/one-polling-station-torun-school-5.png)
+![one-polling-station-torun-school-5]({{site.baseurl}}/assets/img/one-polling-station-torun-school-5.png)
 
-```sql
+```json
         "biedron": [
             2.04545454545455,
             2.41042345276873,

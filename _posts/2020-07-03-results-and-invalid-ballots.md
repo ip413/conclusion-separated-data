@@ -2,6 +2,8 @@
 layout: post
 title: 'Official result as a function of unused ballot papers - round 1'
 ---
+![]({{site.baseurl}}/assets/img/karty_niewykorzystane/wynik_duda_as_function_karty_niewykorzystane.png)
+<!--more-->
 
 ## Results
 

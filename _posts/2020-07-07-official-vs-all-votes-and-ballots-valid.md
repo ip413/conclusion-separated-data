@@ -2,6 +2,8 @@
 layout: post
 title: Official result vs results from polling stations with all votes and ballots valid - round 1
 ---
+![results-official-vs-polling-stations-with-all-votes-valid]({{site.baseurl}}/assets/img/results-official-vs-polling-stations-with-all-votes-valid.png)
+<!--more-->
 
 ## SQL queries
 ```sql
@@ -48,8 +50,8 @@ from runda1,
 | official  | 2.22    | 6.78  | 43.50 | 13.87    | 0.17     | 2.36     | 0.11       | 0.14    | 30.46       | 0.14      | 0.23   |
 | all valid | 2.02    | 6.75  | 47.26 | 13.30    | 0.17     | 2.57     | 0.11       | 0.14    | 27.32       | 0.12      | 0.22   |
 
-![]({{site.baseurl}}/assets/img/results-official-vs-polling-stations-with-all-votes-valid.png)
-![]({{site.baseurl}}/assets/img/results-official-vs-polling-stations-with-all-votes-valid-2.png)
+![results-official-vs-polling-stations-with-all-votes-valid]({{site.baseurl}}/assets/img/results-official-vs-polling-stations-with-all-votes-valid.png)
+![results-official-vs-polling-stations-with-all-votes-valid]({{site.baseurl}}/assets/img/results-official-vs-polling-stations-with-all-votes-valid-2.png)
 
 ## Discussion
 
