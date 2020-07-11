@@ -16,6 +16,18 @@ Link: [https://ip413.github.io/presidential-election-poland-2020/](https://ip413
 ](https://www.wykop.pl/artykul/5582715/analiza-porownawcza-ilosci-glosow-niewaznych-vs-wyniki-wyborow-w-okregach-gt/
 )
 
+## Useful commands
+
+Start local jekyll
+```bash
+rm -rf _site & bundle exec jekyll serve --future --incremental --watch
+```
+
+Compile scss
+```bash
+sass _sass/minima.scss assets/main.css
+```
+
 ## FAQ
 
 * Why English language in repo? 
