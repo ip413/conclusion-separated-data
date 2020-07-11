@@ -3,6 +3,10 @@ Blog about data and analysis related to election in Poland, 2020.
 
 Link: [https://ip413.github.io/presidential-election-poland-2020/](https://ip413.github.io/presidential-election-poland-2020/)
 
+## License
+* Code: MIT
+* Blog content: CC BY-SA 4.0
+
 ## Similar content online
 
 * [https://dobek.org/2020/niepokojace-anomalia-statystyczne-w-wynikach-polonii/

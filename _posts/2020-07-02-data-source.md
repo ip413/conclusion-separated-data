@@ -10,7 +10,7 @@ title: 'Data source - round 1'
 * [wyniki_gl_na_kand_po_obwodach_xlsx.zip](https://wybory.gov.pl/prezydent20200628/data/1/csv/wyniki_gl_na_kand_po_obwodach_xlsx.zip)
 
 
-You have be aware that although downloaded zip  and xlsx files inside have different checksum from day to day. When you extract, and transform to csv files the checksum should be the same (md5).
+You have be aware that although downloaded zip  and xlsx files inside have different checksum from day to day, when you extract and transform content to csv files the checksum should be the same (md5).
 I don't know why... 
 
 ```
@@ -36,6 +36,8 @@ Proof 2
 ![assets/img/data_mismatch/excel-2.png]({{site.baseurl}}/assets/img/data_mismatch/excel-2.png)
 
 Even more, if you find some polling station in both spreadsheet file and web service some data could not match, like number of people entitled to vote. Don't ask me why.
+
+It's safer to use lists of polling districts, but it's not possible to generate such a list for the whole country, example: [https://wybory.gov.pl/prezydent20200628/pl/organy_wyborcze/obwodowe/1/pow/26400](https://wybory.gov.pl/prezydent20200628/pl/organy_wyborcze/obwodowe/1/pow/26400). At least numbers of polling stations match.
 
 ## Data I'm working with
 
