@@ -263,3 +263,15 @@ table {
 .small {
   font-size: small;
 }
+
+.site-title {
+  &:hover {
+    color: $text-color;
+    text-decoration: none;
+  }
+
+  &,
+  &:visited {
+    color: $grey-color-dark;
+  }
+}

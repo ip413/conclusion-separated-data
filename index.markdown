@@ -6,7 +6,12 @@ layout: default
     {% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+        <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}
+        <br>
+        {% if post.content contains site.excerpt_separator %}
+          {{ post.excerpt }}
+        {% endif %}
+        </a></h2>
       </li>
     {% endfor %}
   </ul>
