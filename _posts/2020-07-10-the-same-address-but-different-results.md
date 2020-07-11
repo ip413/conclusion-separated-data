@@ -13,9 +13,12 @@ from runda1 where siedziba in (SELECT siedziba FROM runda1 GROUP BY siedziba HAV
 order by siedziba;
 ```
 
-Plus node scripts calculating some strange things.
+Plus scripts calculating:
+* weighted (by percentage result) second Pearson's skew coefficient for results of single candidate in one building (SPSC)
+* standard deviation of SPSC for all polling stations in one building
+* sum of second Pearson's SPSC for all polling stations in one building
 
-## Results and discussion
+## Results
 
 JSON files (only for 4 candidates with highest results):
 * [bosak-took-votes-address.json]({{site.baseurl}}/assets/json/02-skew-bosak-took-votes-address.json)
@@ -35,9 +38,14 @@ JSON files (only for 4 candidates with highest results):
 
 If you are interested only in addresses of suspicious polling stations you can look at files with "addresses" in name.
 
-Files with name of single candidate show results from suspicious polling stations, where the candidate "took" votes from other - and this fact is highly suspicious for statistical standpoint.
+Files with name of single candidate show results from suspicious polling stations, where the candidate "took" votes from others - and this fact is highly suspicious for statistical standpoint.
 
-Some examples, from the top of every file.
+The higher position of in file (closer to the top) the more suspicious polling station is. The closer to the bottom of the file, the least suspicious polling station is.
+
+The only file which contains data in radom order (deliberately) is deliberately [duda-bosak-holownia-trzaskowski-address-unique]({{site.baseurl}}/assets/json/02-skew-took-votes-duda-bosak-holownia-trzaskowski-address-unique.txt)
+
+
+## Examples from the top of every file
 
 <br/> <br/>
 Bosak is "stealing" votes in one of the polling stations in **Liceum Ogólnokształcące nr VII, ul. Jemiołowa 57, 53-426 Wrocław**
@@ -290,14 +298,36 @@ Trzaskowski is "stealing" votes in one of the polling stations in **Szkoła Pods
 
 <br/> <br/>
 
-And here you can see very nice result, it is possible!
+And here you can see very nice example when all results from polling stations placed in one building are almost the same. It is possible!
 
 ![]({{site.baseurl}}/assets/img/one-polling-station-katowice-mdk-40-111.png)
+![]({{site.baseurl}}/assets/img/one-polling-station-warszawa-szkola-366.png)
+![]({{site.baseurl}}/assets/img/one-polling-station-rzeszow-szkola-28.png)
+
+Just compare it to one of the suspicious examples
+
+![]({{site.baseurl}}/assets/img/one-polling-station-torun-school-5.png)
 
 
 <br/> <br/>
 If you are interested which cities have most of the "strange" results, here you have:
 ![]({{site.baseurl}}/assets/img/number-of-suspicious-polling-stations-in-city.png)
 
-<br/> <br/>
-Full list of all suspicious polling stations is [here]({{site.baseurl}}/assets/json/02-skew-took-votes-duda-bosak-holownia-trzaskowski-address-unique.txt).
+## Summary
+This analysis is not a proof that results in specific polling station was achieved by cheating. At the time we can't determine which results could happen because of distribution of voters which belongs to specific polling station and which were cheated.
+
+But, it's is better to have some insight into probability of fraud than not having it at all.
+
+There is 27 000 points in Poland where voters can vote, and controlling all of them is beyond discussion. But, taking some effort to control about 400 of them is much more doable. It's only 1.4% off all polling stations. 
+
+Consider that on average single polling point have 700 valid votes, if only 5% of votes were cheated it would be ```400 (suspicious polling stations) x 700 (votes on average in one polling station) x 0.05 (5% cheated votes) = 14 000 votes in whole country```. And this is with assumption that **only** 1.4% of polling stations cheats.
+
+In 2019 The Senate, the upper house of the Polish parliament was "taken" by opposition with only **903 votes** (sic!).
+
+So if you are:
+* Duda voter - take care of polling stations from the top of the files:
+    * [trzaskowski-took-votes-address.json]({{site.baseurl}}/assets/json/02-skew-trzaskowski-took-votes-address.json)
+    * [holownia-took-votes-address.json]({{site.baseurl}}/assets/json/02-skew-holownia-took-votes-address.json)
+* Trzaskowski voter - take care of polling stations from the top of the files:
+    * [duda-took-votes-address.json]({{site.baseurl}}/assets/json/02-skew-duda-took-votes-address.json)
+    * [bosak-took-votes-address.json]({{site.baseurl}}/assets/json/02-skew-bosak-took-votes-address.json)
