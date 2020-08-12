@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Polling stations with the same address but different results - round 1'
+title: 'Polling stations with the same address but different results - round 1 - presidential election, Poland, 2020'
 ---
 ![one-polling-station-wroclaw-school-84]({{site.baseurl}}/assets/img/one-polling-station-wroclaw-school-84.png)
 <!--more-->

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Official result as a function of invalid votes - round 1'
+title: 'Official result as a function of invalid votes - round 1 - presidential election, Poland, 2020'
 ---
 ![wynik_duda_proc_as_function_glosy_niewazne]({{site.baseurl}}/assets/img/glosy_niewazne/wynik_duda_proc_as_function_glosy_niewazne_proc.png)
 <!--more-->

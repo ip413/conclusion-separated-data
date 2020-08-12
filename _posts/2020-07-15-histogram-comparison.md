@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Histogram comparison
+title: Histogram comparison - presidential election, Poland, 2020
 ---
 ![]({{site.baseurl}}/assets/img/04-histogram-comparison/04-histogram-comparison-duda-trzaskowski-round-1.png)
 <!--more-->

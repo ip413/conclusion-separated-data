@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Official result vs results from polling stations with all votes and ballots valid - round 1
+title: Official result vs results from polling stations with all votes and ballots valid - round 1 - presidential election, Poland, 2020
 ---
 ![results-official-vs-polling-stations-with-all-votes-valid]({{site.baseurl}}/assets/img/results-official-vs-polling-stations-with-all-votes-valid.png)
 <!--more-->

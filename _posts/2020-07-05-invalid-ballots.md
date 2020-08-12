@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Invalid ballots - round 1'
+title: 'Invalid ballots - round 1 - presidential election, Poland, 2020'
 ---
 ```
 71,"Zespół Szkół Salezjańskich w Poznaniu, os. Bohaterów II Wojny Światow...

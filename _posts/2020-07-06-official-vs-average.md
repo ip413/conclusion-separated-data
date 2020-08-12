@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Official result vs average result in polling stations - round 1'
+title: 'Official result vs average result in polling stations - round 1 - presidential election, Poland, 2020'
 ---
 ![results-official-vs-average]({{site.baseurl}}/assets/img/results-official-vs-average.png)
 <!--more-->

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Percentage of invalid votes when candidate had result above official, rural and urban areas - round 1
+title: Percentage of invalid votes when candidate had result above official, rural and urban areas - round 1 - presidential election, Poland, 2020
 ---
 ![invalid-votes-result-above-official-urban]({{site.baseurl}}/assets/img/invalid-votes-result-above-official-urban.png)
 <!--more-->

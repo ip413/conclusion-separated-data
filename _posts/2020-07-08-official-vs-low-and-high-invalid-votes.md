@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Official result vs results from polling stations with low and high invalid votes - round 1
-'
+ - presidential election, Poland, 2020'
 ---
 ![official-vs-low-invalid-vs-high-invalid-votes]({{site.baseurl}}/assets/img/official-vs-low-invalid-vs-high-invalid-votes.png)
 <!--more-->

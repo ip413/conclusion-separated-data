@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Official result as a function of unused ballot papers - round 1'
+title: 'Official result as a function of unused ballot papers - round 1 - presidential election, Poland, 2020'
 ---
 ![]({{site.baseurl}}/assets/img/karty_niewykorzystane/wynik_duda_as_function_karty_niewykorzystane.png)
 <!--more-->

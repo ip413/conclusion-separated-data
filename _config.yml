@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Presidential election in Poland, 2020
+title: conclusion separated data
 email: ip413as@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   data and analysis
-baseurl: "/presidential-election-poland-2020" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 repo: 
-  text: "github: ip413/presidential-election-poland-2020"
-  url: //github.com/ip413/presidential-election-poland-2020
+  text: "ip413/conclusion-separated-data"
+  url: //github.com/ip413/conclusion-separated-data
 
 license:
   text: Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) 

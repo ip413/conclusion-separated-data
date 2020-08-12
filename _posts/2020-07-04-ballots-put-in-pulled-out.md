@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Difference between votes from envelopes put in ballot box and pulled out - round 1'
+title: 'Difference between votes from envelopes put in ballot box and pulled out - round 1 - presidential election, Poland, 2020'
 ---
 ```
 -125    Haga II, Ambasada RP (dawny WPHI) Van Lennepweg 51 2597 LG Den Haag,...
